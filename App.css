@@ -1,0 +1,76 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto&display=swap");
+
+* {
+	box-sizing: border-box;
+	font-size: 20px;
+	font-family: "Roboto", sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-color: purple;
+	color: yellow;
+	height: 100% !important;
+}
+
+#quote-box {
+	background-color: rgb(153, 40, 153);
+	vertical-align: auto;
+	border: 1px solid yellow;
+	border-radius: 5px;
+	padding: 20px;
+	margin-top: 200px;
+}
+
+#tweet-quote {
+	border-radius: 0 !important;
+	color: purple;
+	background-color: yellow;
+	border: none !important;
+}
+button {
+	border-radius: 0 !important;
+	color: purple !important;
+	background-color: yellow !important;
+	border: none !important;
+}
+
+#tweet-quote:hover {
+	color: yellow;
+	background-color: rgb(153, 40, 153);
+}
+
+button:hover {
+	color: yellow !important;
+	background-color: rgb(153, 40, 153) !important;
+}
+
+.developer {
+	display: block;
+	font-size: 12px;
+	color: white;
+	text-align: center;
+}
+
+.developer:hover {
+	color: yellow;
+}
+
+#text,
+#author,
+#tweet-quote,
+.btn,
+.fab,
+.developer {
+	transition: 0.5s ease;
+}
+
+#text {
+	text-align: center;
+}
+
+.buttons {
+	display: flex;
+	justify-content: space-between;
+}
