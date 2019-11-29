@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/greatkay-olowo/ReactJS-Quote-Generator/static/css/main.bc6d750a.chunk.css",
+    "main.js": "/greatkay-olowo/ReactJS-Quote-Generator/static/js/main.db819492.chunk.js",
+    "main.js.map": "/greatkay-olowo/ReactJS-Quote-Generator/static/js/main.db819492.chunk.js.map",
+    "runtime-main.js": "/greatkay-olowo/ReactJS-Quote-Generator/static/js/runtime-main.e45b618d.js",
+    "runtime-main.js.map": "/greatkay-olowo/ReactJS-Quote-Generator/static/js/runtime-main.e45b618d.js.map",
+    "static/js/2.f27369f9.chunk.js": "/greatkay-olowo/ReactJS-Quote-Generator/static/js/2.f27369f9.chunk.js",
+    "static/js/2.f27369f9.chunk.js.map": "/greatkay-olowo/ReactJS-Quote-Generator/static/js/2.f27369f9.chunk.js.map",
+    "index.html": "/greatkay-olowo/ReactJS-Quote-Generator/index.html",
+    "precache-manifest.bd62e4a28af4bdb0719f39a7187f6845.js": "/greatkay-olowo/ReactJS-Quote-Generator/precache-manifest.bd62e4a28af4bdb0719f39a7187f6845.js",
+    "service-worker.js": "/greatkay-olowo/ReactJS-Quote-Generator/service-worker.js",
+    "static/css/main.bc6d750a.chunk.css.map": "/greatkay-olowo/ReactJS-Quote-Generator/static/css/main.bc6d750a.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e45b618d.js",
+    "static/js/2.f27369f9.chunk.js",
+    "static/css/main.bc6d750a.chunk.css",
+    "static/js/main.db819492.chunk.js"
+  ]
+}
